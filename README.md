@@ -1,2 +1,2 @@
 # test
-![img/golden gate.jpg](img/golden gate.jpg)
+![https://raw.githubusercontent.com/devgaucho/test/main/img/golden%20gate.jpg](https://raw.githubusercontent.com/devgaucho/test/main/img/golden%20gate.jpg)
