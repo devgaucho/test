@@ -1,2 +1,2 @@
 # test
-![golden gate.jpg](alt)
+![alt](golden gate.jpg)
