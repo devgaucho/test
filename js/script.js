@@ -1,1 +1,1 @@
-alert("github hackeado");
+document.getElementById("out").innerHTML='javascript ok';
